@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/catherin/dev/react-native/crocodileBird/node_modules/react-native/ReactCommon/jschelpers/Unicode.cpp \
-  /Users/catherin/dev/react-native/crocodileBird/node_modules/react-native/ReactCommon/jschelpers/Unicode.h
+  /Users/catherin/GitHub/crocodileBird/node_modules/react-native/ReactCommon/jschelpers/Unicode.cpp \
+  /Users/catherin/GitHub/crocodileBird/node_modules/react-native/ReactCommon/jschelpers/Unicode.h

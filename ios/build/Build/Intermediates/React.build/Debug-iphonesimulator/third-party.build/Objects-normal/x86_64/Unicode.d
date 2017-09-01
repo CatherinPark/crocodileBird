@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/catherin/dev/react-native/crocodileBird/node_modules/react-native/third-party/folly-2016.09.26.00/folly/Unicode.cpp \
-  /Users/catherin/dev/react-native/crocodileBird/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Unicode.h
+  /Users/catherin/GitHub/crocodileBird/node_modules/react-native/third-party/folly-2016.09.26.00/folly/Unicode.cpp \
+  /Users/catherin/GitHub/crocodileBird/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Unicode.h
